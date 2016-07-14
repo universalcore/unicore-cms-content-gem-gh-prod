@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
+  "subtitle": "You have the idea \u2013 just not the money to get started. Here\u2019s what to do. ", 
   "description": "You have the idea \u2013 just not the money to get started. Here\u2019s what to do. \r\n", 
   "language": "eng_GB", 
   "title": " Start a business with little or no cash", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2016-06-10T12:30:55.722772+00:00", 
+  "created_at": "2016-06-10T12:30:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-06-10T12:30:55.722984+00:00", 
+  "modified_at": "2016-07-14T07:31:26.171529+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "start-business-little-or-no-cash", 
   "uuid": "b752cf1701e848a08bef5bc4b12f80e3"
